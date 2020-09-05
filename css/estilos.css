@@ -22,7 +22,7 @@ html {
  
    html {
     background-color: rgb(69,74,68);
-    background-image: url(12.jpg);
+    background-image: url(o.jpg);
     background-repeat: no-repeat;
     background-position: center bottom left;
     background-attachment: fixed;
@@ -78,7 +78,7 @@ position: relative;
 border-radius: 12%;
 list-style: none;
 margin: 2%;
-background-color: lightsalmon;
+background-color: #ae6338;
 border: black, solid;
 border-collapse: collapse;
 }
@@ -124,10 +124,8 @@ hr{
 }
 #costado{
   width: 30%;
-       background:salmon;
+       background:#D4C2B8;
         float:right;
         padding: 20px;
         box-sizing: border-box;
 }
-
-
